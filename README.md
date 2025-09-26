@@ -28,3 +28,5 @@ Write a short paragraph (5–8 sentences) in English:
 - **UML implementation in Java (attributes, constructors, methods):** 50%  
 - **Objects created and tested in `Main`:** 20%  
 - **Reflection** 30%  
+ Refleccion: Para este parcial me prepare bastante como en clase y en las madrugadas, en las clases el profesor fue muy claro con la explicacion de todos temas, explico muy bien todo el tema del UML y pues tambien adquiri nuevos conocimientos como en clase como personal.
+ Aprendi a interpretar el UML y a crear constructores pero igual se me dificulta un poco y me cerre un poco en este parcial, espero seguir adquiriendo conocimientos y a profundizar el tema para dominarlo.
